@@ -1,0 +1,38 @@
+
+### 3. `package.json` (English)
+
+```json
+{
+  "name": "fractal-mandala",
+  "version": "1.0.0",
+  "description": "Interactive fractal mandala with 4000 points and 7 ring colors",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server -p 8080",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/fractal-mandala.git"
+  },
+  "keywords": [
+    "fractal",
+    "mandala",
+    "visualization",
+    "math",
+    "phyllotaxis",
+    "golden-angle",
+    "ensemble-learning",
+    "anomaly-detection"
+  ],
+  "author": "Your Name <email@example.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/your-username/fractal-mandala/issues"
+  },
+  "homepage": "https://github.com/your-username/fractal-mandala#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "dependencies": {}
+}
